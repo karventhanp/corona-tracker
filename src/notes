@@ -1,0 +1,18 @@
+1=>axios - npm i axios
+  Axios is a library that helps us make http requests to external resources.
+  In our React applications we often need to retrieve data from external APIs
+   so it can be displayed in our web pages.
+   Axios uses methods like get() and post() that perform http GET and POST requests
+    for retrieving or creating resources.
+
+2=>react-chartjs-2 - npm i react-chartjs-2
+   For creating charts 
+
+3=>react-countup -npm i react-countup
+   For counting number animation
+
+4=> if we create css file using following syntax it will be applied only that folder or that file
+    syntax: Crads.module.css
+
+5=> material ui - npm i @material-ui/core
+   for giving better responsive and designing 
