@@ -26,10 +26,13 @@ class App extends Component {
      <Cards data={data}/>
     */
     return (
-    <div className={styles.container}>
+    <div className={styles.container}>      
       <img className={styles.image} src={corona} alt="COVID-19"/>
       <Cards data={this.state.data} />
       <CountryPicker handleCountryChange={this.handleCountryChange}/>
+      <div>
+        <h3>Developed by Karventhan</h3>
+      </div>
     </div>  );
   }
 }
